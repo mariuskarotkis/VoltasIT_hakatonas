@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/hakatonas/VoltasIT_hakatonas/app/src/main/res/drawable/ic_dashboard_black_24dp.xml" value="0.24583333333333332" />
+        <entry key="..\:/hakatonas/VoltasIT_hakatonas/app/src/main/res/drawable/ic_home_black_24dp.xml" value="0.24583333333333332" />
+        <entry key="..\:/hakatonas/VoltasIT_hakatonas/app/src/main/res/drawable/ic_launcher_background.xml" value="0.24583333333333332" />
+        <entry key="..\:/hakatonas/VoltasIT_hakatonas/app/src/main/res/layout/activity_main.xml" value="0.13360507246376813" />
         <entry key="..\:/hakatonas/VoltasIT_hakatonas/app/src/main/res/layout/fragment_dashboard.xml" value="0.13360507246376813" />
         <entry key="..\:/hakatonas/VoltasIT_hakatonas/app/src/main/res/layout/fragment_home.xml" value="0.13360507246376813" />
       </map>
